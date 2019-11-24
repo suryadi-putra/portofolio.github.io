@@ -1,0 +1,14 @@
+.jumbotron img {
+    width: 200px;
+    border: 5px solid #6666;
+}
+
+.jumbotron h1,
+p {
+    text-transform: capitalize;
+}
+
+.about hr {
+    width: 250px;
+    border-top: 3px solid #9999;
+}
